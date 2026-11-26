@@ -2,6 +2,8 @@
 
 A desktop app to convert images in batch between common formats. It has a simple graphical interface, works on Linux and Windows, and is easy to extend with new formats.
 
+<img width="1339" height="620" alt="image" src="https://github.com/user-attachments/assets/65615842-aadf-4cd1-850c-6222fa0bb201" />
+
 ## Features
 
 - Batch conversion of all supported images in a folder, including subfolders.
